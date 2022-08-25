@@ -1,13 +1,8 @@
-.title {
-  display: none;
-}
-
 .form_field {
   display: block;
   padding: 5px;
 }
 
 .section {
-  margin: 20px 0;
-  border: 1px solid black;
+  margin-bottom: 20px;
 }
