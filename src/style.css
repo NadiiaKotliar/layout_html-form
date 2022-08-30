@@ -1,8 +1,12 @@
-.form_field {
-  display: block;
-  padding: 5px;
-}
-
 .section {
   margin-bottom: 20px;
+}
+
+.form_field {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form_field:last-child {
+  margin-bottom: 0;
 }
